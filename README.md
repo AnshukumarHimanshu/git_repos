@@ -1,2 +1,2 @@
 # git_repos
-this  is my repository 
+this  is my git repository 
